@@ -1,9 +1,9 @@
 // Sample data
-const skills = ["JavaScript", "HTML", "CSS", "React", "Node.js"];
-const certifications = ["Certified JavaScript Developer", "Certified React Developer"];
+const skills = ["JAVA","Python","Spring","WebServices","GIT","Maven","DynamoDb","AWS","Kofax","Tableau","JavaScript", "HTML", "CSS", "React", "Node.js"];
+const certifications = ["Certified RPA Developer"];
 const employmentTimeline = [
-    { year: "2022", position: "Software Engineer at Company A", details: "Developed web applications." },
-    { year: "2021", position: "Frontend Developer at Company B", details: "Worked on UI/UX design." }
+    { year: "December 19 – December 21", position: "Senior Software Engineer", details: "Full Stack Developer" },
+    { year: "Dec 2017 – Dec 2019", position: "Senior Software Engineer", details: "Full Stack Developer" }
 ];
 
 // Insert skills into the list
